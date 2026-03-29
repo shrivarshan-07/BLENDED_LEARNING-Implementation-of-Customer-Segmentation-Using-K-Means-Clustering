@@ -122,7 +122,8 @@ plt.show()
 
 ## Output:
 ![alt text](<Screenshot 2026-03-10 165814.png>)
-![alt text](<Screenshot 2026-03-10 165826.png>)
+![WhatsApp Image 2026-03-29 at 14 52 57](https://github.com/user-attachments/assets/6731999f-f98e-4990-83fb-d971056b2f50)
+
 
 
 ## Result:
